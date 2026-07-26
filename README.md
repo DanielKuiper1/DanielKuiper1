@@ -1,70 +1,27 @@
-# Hi there, I'm Daniel 👋  
+# Daniel Kuiper
 
-<!--  
-**DanielKuiper1/DanielKuiper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+Applied Data Science & AI student and junior developer. I work across the stack from data analysis to web interfaces, with a focus on turning data into useful, well-engineered software.
 
-Here are some ideas to get you started:  
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ...  
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...  
-- 💬 Ask me about ...  
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...  
-- ⚡ Fun fact: ...  
--->
+## About
 
-Welcome to my GitHub profile! I’m a dedicated **MBO Software Development student** passionate about creating elegant and functional software solutions. Whether it's front-end magic ✨ or back-end robustness 🔧, I’m always eager to explore, learn, and grow in the tech field.
+- Studying HBO **Applied Data Science & AI (ADSAI)** at De Haagse Hogeschool, with coursework spanning data science, programming, mathematics, and ethics & law.
+- Junior Frontend developer.
+- Background in data science and statistics.
 
----
+## Skills
 
-## 🌟 About Me  
+**Data & Analysis** — Data science, statistics, machine learning and AI
 
-I’m currently studying **Software Development (MBO 4)** at the Techniek College Rotterdam. My journey in tech has been driven by curiosity, perseverance, and a love for solving challenges. I’m actively looking for opportunities to further hone my skills, particularly as I approach my graduation.
+**Programming** — Python, JavaScript, MySQL, HTML/CSS
 
----
+**Frameworks & Tools** — Vue.js, Git, Figma
 
-## 🛠️ Skills  
+## Current focus
 
-### 👨‍💻 Programming & Development  
-- **Languages**: HTML, CSS, JavaScript, PHP, C#, MySQL  
-- **Frameworks**: Laravel, Unity  
-- **Web Tools**: WordPress, wireframing, sitemaps  
+- Applying data science and machine learning to real-world problems
+- Strengthening frontend skills with Vue.js and hand-coded HTML/CSS/JS
+- Writing clean, maintainable, well-tested code
 
-### 🛡️ Tools & Methodologies  
-- **Version Control**: Git, GitHub  
-- **Collaboration**: Agile/Scrum, Trello  
-- **Hosting**: Apache, SSH, FTP  
-- **Design**: Figma  
+## Contact
 
-### 🔍 Testing & Debugging  
-- Unit testing and continuous improvement of code.  
-
----
-
-## 🚀 Projects  
-
-Here are a few highlights from my work (more in the repositories!):  
-- **Portfolio Website**: Designed and developed a responsive personal portfolio using modern web standards.  
-- **Unity Game Demo**: Prototyped a 2D platformer showcasing C# scripting skills.
-
----
-
-## 📚 Current Focus  
-
-- Deepening knowledge of **backend frameworks** like Laravel and database optimization.  
-- Exploring **Linux systems** for enhanced development workflows.  
-- Preparing for a challenging and rewarding MBO4 internship.  
-
----
-
-## 🤝 Let's Connect  
-
-Feel free to reach out and collaborate!  
-- **LinkedIn**: [linkedin.com/in/daniel-kuiper](https://www.linkedin.com/in/daniel-kuiper-06471827b/)  
-- **GitHub Repositories**: Explore my work and projects here on GitHub!  
-
----
-
-Thanks for visiting! Stay curious and keep coding 🚀.  
-
+- LinkedIn: https://www.linkedin.com/in/daniel-kuiper-06471827b/
