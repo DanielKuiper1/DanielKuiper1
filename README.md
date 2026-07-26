@@ -10,11 +10,11 @@ Applied Data Science & AI student and junior developer. I work across the stack 
 
 ## Skills
 
-**Data & Analysis** — Data science, statistics, machine learning and AI
+**Data & Analysis:** Data science, statistics, machine learning and AI
 
-**Programming** — Python, JavaScript, MySQL, HTML/CSS
+**Programming:** Python, JavaScript, MySQL, HTML/CSS
 
-**Frameworks & Tools** — Vue.js, Git, Figma
+**Frameworks & Tools:** Vue.js, Git
 
 ## Current focus
 
